@@ -1,11 +1,9 @@
-[
-  {
-    "id": "192cbc6c5",
-    "pe1": 360,
-    "pe2": 720,
-    "init": 20,
-    "note": "defull",
-    "pack": "",
-    "status": true
-  }
-]
+[ {
+  "id" : "192cbc6c5",
+  "init" : 10,
+  "note" : "defull",
+  "pack" : "",
+  "pe1" : 150,
+  "pe2" : 180,
+  "status" : true
+} ]
